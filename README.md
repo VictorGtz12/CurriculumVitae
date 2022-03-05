@@ -1,2 +1,2 @@
 # CurriculumVitae
-# https://victorgtz12.github.io/CurriculumVitae/
+# victorgtz12.github.io/CurriculumVitae/
